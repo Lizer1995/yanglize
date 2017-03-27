@@ -1,0 +1,94 @@
+#divleft{
+    background-color: #5668b0;
+    padding-top: 50px;
+    text-align: center;
+    float: left;
+    width: 35%;
+    height: 100%;
+    position: fixed;
+    top:0;
+    left: 0;
+    line-height: 2;
+    color: #ffffff;
+}
+#divleft a{
+    color: #ffffff;
+}
+#divright{
+    padding: 50px 20px 50px 20px;
+    float: right;
+    width: 60%;
+    padding-right:5% ;
+}
+#div1{
+    text-align: center;
+    margin-bottom: 50px;
+}
+#div1 p{
+    width: 60%;
+    margin: 0 auto;
+    line-height: 2;
+}
+.bg{
+    /*background-color: #5668b0;*/
+    border-radius: 8px;
+    color: #5668b0;
+    border-bottom: double 10px #5668b0;
+}
+#div2 .row{
+    padding-top: 30px;
+}
+.ma{
+    border-radius: 20px;
+    color: #5668b0;
+    background-color: #5668b0;
+    color: #ffffff;
+}
+
+#div2{
+    text-align: center;
+}
+#div2 p{
+    width: 50%;
+    margin: 0 auto;
+    line-height: 2;
+}
+#div3{
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+#div3 p{
+    width: 90%;
+    margin: 0 auto;
+    line-height: 2;
+}
+#div3 a p{
+    width: 90%;
+    margin: 0 auto;
+    line-height: 2;
+}
+.left{
+    /*width: 100%;*/
+    line-height: 2;
+    text-align:left;
+}
+#div4{
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.threecol img{
+    /*-moz-column-count:3; 	/!* Firefox *!/*/
+    /*-webkit-column-count:3; /!* Safari ºÍ Chrome *!/*/
+    /*column-count:3;*/
+    /*width: 90%;*/
+    /*-moz-column-gap:10px;		/!* Firefox *!/*/
+    /*-webkit-column-gap:10px;	/!* Safari ºÍ Chrome *!/*/
+    /*column-gap:10px;*/
+    float: left;
+    margin-left: 30px;
+}
+.s{
+    border-bottom: dashed #ffffff 3px;
+}
