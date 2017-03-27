@@ -4,10 +4,10 @@
     text-align: center;
     float: left;
     width: 35%;
-    height: 100%;
     position: fixed;
     top:0;
     left: 0;
+    bottom:0;
     line-height: 2;
     color: #ffffff;
 }
@@ -80,11 +80,11 @@
 }
 .threecol img{
     /*-moz-column-count:3; 	/!* Firefox *!/*/
-    /*-webkit-column-count:3; /!* Safari บอ Chrome *!/*/
+    /*-webkit-column-count:3; /!* Safari ยบร Chrome *!/*/
     /*column-count:3;*/
     /*width: 90%;*/
     /*-moz-column-gap:10px;		/!* Firefox *!/*/
-    /*-webkit-column-gap:10px;	/!* Safari บอ Chrome *!/*/
+    /*-webkit-column-gap:10px;	/!* Safari ยบร Chrome *!/*/
     /*column-gap:10px;*/
     float: left;
     margin-left: 30px;
